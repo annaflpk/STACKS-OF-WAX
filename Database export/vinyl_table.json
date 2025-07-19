@@ -1,0 +1,110 @@
+{
+    "vinyls": [
+        {
+            "title": "Mhxanes",
+            "musicGenre": "Rap",
+            "_id": "6444122ea13b576f3b43f918",
+            "artist": "Stoixhma",
+            "comments": [
+                {
+                    "user": "64441106a13b576f3b43f90e",
+                    "comment": "Great Album",
+                    "_id": "6444139fa13b576f3b43f934"
+                },
+                {
+                    "user": "644410aca13b576f3b43f908",
+                    "comment": "The best greek Album of this century",
+                    "_id": "6444142aa13b576f3b43f9de"
+                },
+                {
+                    "user": "644410bfa13b576f3b43f90b",
+                    "comment": "Another one comment",
+                    "_id": "64441460a13b576f3b43fa55"
+                }
+            ],
+            "like": [
+                "64441106a13b576f3b43f90e",
+                "644410aca13b576f3b43f908",
+                "644410bfa13b576f3b43f90b"
+            ]
+        },
+        {
+            "title": "Machine Head",
+            "musicGenre": "Rock",
+            "_id": "6444124ea13b576f3b43f91a",
+            "artist": "Deep Purple",
+            "comments": [
+                {
+                    "user": "64441106a13b576f3b43f90e",
+                    "comment": "Greetings from USA",
+                    "_id": "644413dea13b576f3b43f964"
+                }
+            ],
+            "like": [
+                "64441106a13b576f3b43f90e"
+            ]
+        },
+        {
+            "title": "Thriller",
+            "musicGenre": "Pop",
+            "_id": "6444126da13b576f3b43f91c",
+            "artist": "Michael Jackson",
+            "comments": [],
+            "like": []
+        },
+        {
+            "title": "M.A.A.D City",
+            "musicGenre": "Rap",
+            "_id": "64441291a13b576f3b43f91e",
+            "artist": "Good Kid",
+            "comments": [],
+            "like": [
+                "644410aca13b576f3b43f908"
+            ]
+        },
+        {
+            "title": "Purple Rain",
+            "musicGenre": "Rock",
+            "_id": "644412b8a13b576f3b43f920",
+            "artist": "Prince and The Revolution",
+            "comments": [],
+            "like": []
+        },
+        {
+            "title": "Hotel California",
+            "musicGenre": "Rock",
+            "_id": "644412d8a13b576f3b43f922",
+            "artist": "The Eagles",
+            "comments": [],
+            "like": [
+                "64441106a13b576f3b43f90e"
+            ]
+        },
+        {
+            "title": "Dark Side of the Moon",
+            "musicGenre": "Rock",
+            "_id": "644412fca13b576f3b43f924",
+            "artist": "Pink Floyd",
+            "comments": [],
+            "like": []
+        },
+        {
+            "title": "The Cronic",
+            "musicGenre": "Rap",
+            "_id": "6444131fa13b576f3b43f926",
+            "artist": "Dr. Dre",
+            "comments": [],
+            "like": []
+        },
+        {
+            "title": "The Heist",
+            "musicGenre": "Pop",
+            "_id": "6444134ba13b576f3b43f928",
+            "artist": "Macklemore & Ryan Lewis",
+            "comments": [],
+            "like": [
+                "644410bfa13b576f3b43f90b"
+            ]
+        }
+    ]
+}

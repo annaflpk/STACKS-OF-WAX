@@ -1,0 +1,34 @@
+{
+    "user": [
+        {
+            "username": "viewer1",
+            "password": "$2b$10$vtdozrNSa2OVGfFNDrlEnexDw4KkwXrve/edS.xiHKsB/KVsOSGiC",
+            "_id": "644410aca13b576f3b43f908",
+            "vinyls": [
+                "6444124ea13b576f3b43f91a",
+                "644412fca13b576f3b43f924"
+            ],
+            "email": "viewer1@example.com"
+        },
+        {
+            "username": "viewer2",
+            "password": "$2b$10$DtojmRmf4bgb0HLBstOtm.MCtveYiCS.jgtG0Gmhwfrresq2axHhu",
+            "_id": "644410bfa13b576f3b43f90b",
+            "vinyls": [
+                "6444131fa13b576f3b43f926"
+            ],
+            "email": "viewer2@example.com"
+        },
+        {
+            "username": "Anna",
+            "password": "$2b$10$EKfrbg8obUUVJPTOOJribO693YbUAqEc32eRTfRjxtKYpGJQbvq56",
+            "_id": "64441106a13b576f3b43f90e",
+            "vinyls": [
+                "6444122ea13b576f3b43f918",
+                "6444131fa13b576f3b43f926",
+                "6444134ba13b576f3b43f928"
+            ],
+            "email": "visitor@example.com"
+        }
+    ]
+}
