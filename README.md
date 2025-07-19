@@ -1,0 +1,1 @@
+Load in visual studio code the file Stacks of Wax. Then open a new terminal and type 'npm start' and press enter and a message will appear that says 'connected to database'. Then open any modern web browser and enter http://localhost:3000 in the address bar.
